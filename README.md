@@ -1,6 +1,7 @@
 # Git and GitHub
 ## INTRODUCTION - Version control & Versioning
-Version control, also known as source control, is the process of tracking and managing changes to files over time. VCS — version control systems — are software tools designed to help teams work in parallel. 
+Version control, also known as source control, is the process of tracking and managing changes to files over time. 
+VCS — version control systems — are software tools designed to help teams work in parallel. 
 You can use version control for versioning code, binary files, and digital assets. Versioning permits to tell which code is newer than another. Every versioning schema will then tell which version is newer than the other one. The code can be versioned by making commit to a repository.
 
 ### Git?
