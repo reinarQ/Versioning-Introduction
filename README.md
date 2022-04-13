@@ -20,6 +20,7 @@ GitHub is a web-based hosting service for software development projects that use
 ### Creating new repositry in GitHub
 1. Log-in to your GitHub account 
 2. Click on the plus symbol in the upper right
+![new repository] (repository.png)
 3. Select 'new repository'
 4. Fill in the form and create new repository
 ### Cloning repository
