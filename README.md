@@ -1,5 +1,8 @@
 # Git and GitHub
-## INTRODUCTION
+## INTRODUCTION - Version control & Versioning
+Version control, also known as source control, is the process of tracking and managing changes to files over time. VCS — version control systems — are software tools designed to help teams work in parallel. 
+You can use version control for versioning code, binary files, and digital assets. Versioning permits to tell which code is newer than another. Every versioning schema will then tell which version is newer than the other one. The code can be versioned by making commit to a repository.
+
 ### Git?
 Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. 
 Its goals include speed, data integrity, and support for distributed, non-linear workflows.
@@ -20,7 +23,6 @@ GitHub is a web-based hosting service for software development projects that use
 ### Creating new repositry in GitHub
 1. Log-in to your GitHub account 
 2. Click on the plus symbol in the upper right
-![new repository] (repository.png)
 3. Select 'new repository'
 4. Fill in the form and create new repository
 ### Cloning repository
